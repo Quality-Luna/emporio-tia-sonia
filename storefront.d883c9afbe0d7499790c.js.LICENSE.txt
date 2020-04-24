@@ -1,0 +1,168 @@
+/*!
+  * Bootstrap alert.js v4.4.1 (https://getbootstrap.com/)
+  * Copyright 2011-2019 The Bootstrap Authors (https://github.com/twbs/bootstrap/graphs/contributors)
+  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+  */
+
+/*!
+  * Bootstrap button.js v4.4.1 (https://getbootstrap.com/)
+  * Copyright 2011-2019 The Bootstrap Authors (https://github.com/twbs/bootstrap/graphs/contributors)
+  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+  */
+
+/*!
+  * Bootstrap collapse.js v4.4.1 (https://getbootstrap.com/)
+  * Copyright 2011-2019 The Bootstrap Authors (https://github.com/twbs/bootstrap/graphs/contributors)
+  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+  */
+
+/*!
+  * Bootstrap dropdown.js v4.4.1 (https://getbootstrap.com/)
+  * Copyright 2011-2019 The Bootstrap Authors (https://github.com/twbs/bootstrap/graphs/contributors)
+  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+  */
+
+/*!
+  * Bootstrap modal.js v4.4.1 (https://getbootstrap.com/)
+  * Copyright 2011-2019 The Bootstrap Authors (https://github.com/twbs/bootstrap/graphs/contributors)
+  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+  */
+
+/*!
+  * Bootstrap popover.js v4.4.1 (https://getbootstrap.com/)
+  * Copyright 2011-2019 The Bootstrap Authors (https://github.com/twbs/bootstrap/graphs/contributors)
+  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+  */
+
+/*!
+  * Bootstrap tab.js v4.4.1 (https://getbootstrap.com/)
+  * Copyright 2011-2019 The Bootstrap Authors (https://github.com/twbs/bootstrap/graphs/contributors)
+  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+  */
+
+/*!
+  * Bootstrap toast.js v4.4.1 (https://getbootstrap.com/)
+  * Copyright 2011-2019 The Bootstrap Authors (https://github.com/twbs/bootstrap/graphs/contributors)
+  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+  */
+
+/*!
+  * Bootstrap tooltip.js v4.4.1 (https://getbootstrap.com/)
+  * Copyright 2011-2019 The Bootstrap Authors (https://github.com/twbs/bootstrap/graphs/contributors)
+  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+  */
+
+/*!
+  * Bootstrap util.js v4.4.1 (https://getbootstrap.com/)
+  * Copyright 2011-2019 The Bootstrap Authors (https://github.com/twbs/bootstrap/graphs/contributors)
+  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+  */
+
+/*!
+ * @ecomplus/client
+ * (c) E-Com Club <ti@e-com.club>
+ * Released under the MIT License.
+ */
+
+/*!
+ * @ecomplus/passport-client
+ * (c) E-Com Club <ti@e-com.club>
+ * Released under the MIT License.
+ */
+
+/*!
+ * @ecomplus/search-engine
+ * (c) E-Com Club <ti@e-com.club>
+ * Released under the MIT License.
+ */
+
+/*!
+ * @ecomplus/shopping-cart
+ * (c) E-Com Club <ti@e-com.club>
+ * Released under the MIT License.
+ */
+
+/*!
+ * @ecomplus/storefront-twbs
+ * (c) E-Com Club <ti@e-com.club>
+ * Released under the MIT License.
+ */
+
+/*!
+ * @ecomplus/utils
+ * (c) E-Com Club <ti@e-com.club>
+ * Released under the MIT License.
+ */
+
+/*!
+ * @ecomplus/widget-product-card
+ * (c) E-Com Club <ti@e-com.club>
+ * Released under the MIT License.
+ */
+
+/*!
+ * Glide.js v3.4.1
+ * (c) 2013-2019 Jędrzej Chałubek <jedrzej.chalubek@gmail.com> (http://jedrzejchalubek.com/)
+ * Released under the MIT License.
+ */
+
+/*!
+ * Sizzle CSS Selector Engine v2.3.4
+ * https://sizzlejs.com/
+ *
+ * Copyright JS Foundation and other contributors
+ * Released under the MIT license
+ * https://js.foundation/
+ *
+ * Date: 2019-04-08
+ */
+
+/*!
+ * jQuery JavaScript Library v3.4.1 -ajax,-ajax/jsonp,-ajax/load,-ajax/parseXML,-ajax/script,-ajax/var/location,-ajax/var/nonce,-ajax/var/rquery,-ajax/xhr,-manipulation/_evalUrl,-event/ajax,-effects,-effects/Tween,-effects/animatedSelector
+ * https://jquery.com/
+ *
+ * Includes Sizzle.js
+ * https://sizzlejs.com/
+ *
+ * Copyright JS Foundation and other contributors
+ * Released under the MIT license
+ * https://jquery.org/license
+ *
+ * Date: 2019-05-01T21:04Z
+ */
+
+/*! lozad.js - v1.14.0 - 2019-10-19
+* https://github.com/ApoorvSaxena/lozad.js
+* Copyright (c) 2019 Apoorv Saxena; Licensed MIT */
+
+/**
+ * Simple JS library to handle shopping cart object and events on E-Com Plus (not only) stores.
+ * {@link https://github.com/ecomclub/shopping-cart GitHub}
+ * @author E-Com Club <ti@e-com.club>
+ * @license MIT
+ *
+ * @module @ecomplus/shopping-cart
+ * @return {EcomCart} Default `EcomCart` instance object.
+ * @see ecomCart
+ * @see EcomCart
+ *
+ * @example
+ * // ES import default
+ * import ecomCart from '@ecomplus/shopping-cart'
+ *
+ * @example
+ * // Optional named ES import for default instance and constructor
+ * import { ecomCart, EcomCart } from '@ecomplus/shopping-cart'
+ *
+ * @example
+ * // With CommonJS
+ * const ecomCart = require('@ecomplus/shopping-cart')
+ *
+ * @example
+ * <!-- Global `ecomCart` from CDN on browser -->
+ * <script src="https://cdn.jsdelivr.net/npm/@ecomplus/shopping-cart/dist/ecom-cart.var.min.js"></script>
+ *
+ * @example
+ * <!-- Bundle from CDN with `ecomUtils` and `EventEmitter3` -->
+ * <script src="https://cdn.jsdelivr.net/npm/@ecomplus/shopping-cart/dist/ecom-cart.bundle.min.js"></script>
+ */
