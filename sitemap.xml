@@ -812,6 +812,12 @@
     </url>
   
     <url>
+      <loc>https://emporio-tia-sonia.netlify.app/kits-tia-sonias</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://emporio-tia-sonia.netlify.app/outros-produtos-tia-sonia</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -854,6 +860,12 @@
     </url>
   
     <url>
+      <loc>https://emporio-tia-sonia.netlify.app/pages/privacidade</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
       <loc>https://emporio-tia-sonia.netlify.app/pages/sobre-nos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -861,12 +873,6 @@
   
     <url>
       <loc>https://emporio-tia-sonia.netlify.app/pages/termos</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>https://emporio-tia-sonia.netlify.app/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
