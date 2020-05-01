@@ -800,12 +800,6 @@
     </url>
   
     <url>
-      <loc>https://emporio-tia-sonia.netlify.app/marca/tia-sonia</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://emporio-tia-sonia.netlify.app/granolas</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -837,6 +831,12 @@
   
     <url>
       <loc>https://emporio-tia-sonia.netlify.app/novidades-para-voce</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://emporio-tia-sonia.netlify.app/marca/tia-sonia</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
