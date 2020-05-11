@@ -878,12 +878,6 @@
     </url>
   
     <url>
-      <loc>https://emporio-tia-sonia.netlify.app/pages/seja-nosso-parceiro</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://emporio-tia-sonia.netlify.app/pages/sobre-nos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -897,6 +891,12 @@
   
     <url>
       <loc>https://emporio-tia-sonia.netlify.app/pages/trocas</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://emporio-tia-sonia.netlify.app/pages/seja-nosso-parceiro</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
